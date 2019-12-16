@@ -1,4 +1,4 @@
-####Golden section algorithm
+#### Golden section algorithm
 
 ##### Course
 Optimization Methods: Theory of optimization lab
@@ -8,8 +8,8 @@ Optimization Methods: Theory of optimization lab
 Mgr studies at Wrocław University of Technology, sem 2
 
 ##### Authors
-- Jacek Piszczek
-- Joanna Grzyb
+- Jacek Piszczek 227081
+- Joanna Grzyb 227139
 
 ##### How to use
 
